@@ -29,13 +29,14 @@ let blockedUrls = [
 ];
 
 blockedUrls.forEach((element) => {
-    if (window.location.origin.includes(element.link)) {
-        const imgs = document.getElementsByTagName("body");
-            const randomImg = Math.floor(Math.random() * randomShit.length);
-            document.write("<img src='" + randomShit[randomImg] + "'>");
-            
-    }
-  });
+  if (window.location.origin.includes(element.link)) {
+      
+          const randomImg = Math.floor(Math.random() * randomShit.length);
+          document.write("<img src='" + randomShit[randomImg] +  "' >")
+          
+  }
+});
+  
 
   
 
