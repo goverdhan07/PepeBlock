@@ -3,7 +3,6 @@ This tool is built to reduce my twitter addiction. 😔👍
 
 made this just for the keks
 
-demooo -> 
 ![](pepo-webExtension.gif)
 
 
