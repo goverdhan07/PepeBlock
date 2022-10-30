@@ -1,4 +1,4 @@
-# website-blocker
+# PepeBlock
 This tool is built to reduce my twitter addiction. 😔👍
 
 made this just for the keks
